@@ -1,6 +1,4 @@
-# Hello-World
-test
-
-test the quick brown fox jumps over the lazy dog 0123456789
+# MY_Sites_for_training
+tThis Repo is for storing websites i used for teaching and learning.
 
 
